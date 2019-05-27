@@ -1,5 +1,5 @@
 # IRDAR
-IRDAR Based on Continuous Servo Motors and Infrared Distance Sensors
+IRDAR Built with Continuous Servo Motors and Infrared Distance Sensors
 
 ![Alt Text](images/IMG_6351.JPG "IRDAR")
 
