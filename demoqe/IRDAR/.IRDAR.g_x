@@ -1,0 +1,53 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/TI1.c" FileDate="2016-02-29, 14:07:10" FileAge="1456771030847" FileType="45637" CompNumb="10" />
+      <File Name="Sources/Events.c" FileDate="2016-03-28, 10:18:55" FileAge="1459176535569" FileType="131328" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2016-02-01, 13:16:24" FileAge="1454348784081" FileType="8" CompNumb="4" />
+      <File Name="Generated_Code/AD1.h" FileDate="2016-02-09, 13:18:58" FileAge="1455040138833" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-02-01, 13:16:24" FileAge="1454348784159" FileType="45637" />
+      <File Name="Documentation/IRDAR_Settings.xml" FileDate="2016-03-06, 16:33:41" FileAge="1457298221133" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-02-01, 13:16:24" FileAge="1454348784179" FileType="45637" />
+      <File Name="Generated_Code/AD1.c" FileDate="2016-02-09, 13:18:58" FileAge="1455040138905" FileType="45637" CompNumb="12" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-02-01, 13:16:24" FileAge="1454348784169" FileType="45637" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-02-01, 13:16:24" FileAge="1454348784144" FileType="45637" />
+      <File Name="Generated_Code/AS1.h" FileDate="2016-02-08, 13:36:45" FileAge="1454954805091" FileType="45637" CompNumb="9" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2016-02-01, 13:16:24" FileAge="1454348784131" FileType="45637" />
+      <File Name="Generated_Code/AS1.c" FileDate="2016-02-08, 13:36:45" FileAge="1454954805046" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/IRDAR_SIGNALS.txt" FileDate="2016-03-28, 10:19:27" FileAge="1459176567548" FileType="3072" />
+      <File Name="Generated_Code/PWM1.h" FileDate="2016-02-29, 13:59:50" FileAge="1456770590462" FileType="45637" CompNumb="44" />
+      <File Name="Generated_Code/PWM1.c" FileDate="2016-02-29, 13:59:50" FileAge="1456770590536" FileType="45637" CompNumb="44" />
+      <File Name="Generated_Code/KB1.h" FileDate="2016-02-22, 13:55:24" FileAge="1456165524086" FileType="45637" CompNumb="34" />
+      <File Name="Generated_Code/KB1.c" FileDate="2016-02-22, 13:55:24" FileAge="1456165524099" FileType="45637" CompNumb="34" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-02-29, 13:27:29" FileAge="1456768649780" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2016-02-29, 13:52:14" FileAge="1456770134654" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Bit3.h" FileDate="2016-02-22, 13:55:23" FileAge="1456165523936" FileType="45637" CompNumb="40" />
+      <File Name="Sources/main.c" FileDate="2016-02-29, 14:27:53" FileAge="1456772273599" FileType="128" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-02-29, 13:59:50" FileAge="1456770590549" FileType="45637" CompNumb="4" />
+      <File Name="Generated_Code/Bit3.c" FileDate="2016-02-22, 13:55:23" FileAge="1456165523930" FileType="45637" CompNumb="40" />
+      <File Name="Generated_Code/TI3.h" FileDate="2016-03-06, 16:33:40" FileAge="1457298220895" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/Bit2.h" FileDate="2016-02-15, 14:27:06" FileAge="1455562626130" FileType="45637" CompNumb="33" />
+      <File Name="Generated_Code/TI3.c" FileDate="2016-03-06, 16:33:40" FileAge="1457298220953" FileType="45637" CompNumb="35" />
+      <File Name="Generated_Code/Bit2.c" FileDate="2016-02-15, 14:27:06" FileAge="1455562626144" FileType="45637" CompNumb="33" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2016-02-29, 13:27:29" FileAge="1456768649126" FileType="45637" />
+      <File Name="Generated_Code/TI2.h" FileDate="2016-02-29, 13:52:14" FileAge="1456770134112" FileType="45637" CompNumb="48" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2016-02-29, 13:27:29" FileAge="1456768649120" FileType="45637" />
+      <File Name="Generated_Code/Bit1.h" FileDate="2016-02-08, 12:46:50" FileAge="1454951810685" FileType="45637" CompNumb="8" />
+      <File Name="Generated_Code/TI2.c" FileDate="2016-02-29, 13:52:14" FileAge="1456770134105" FileType="45637" CompNumb="48" />
+      <File Name="Generated_Code/Bit1.c" FileDate="2016-02-08, 12:46:50" FileAge="1454951810700" FileType="45637" CompNumb="8" />
+      <File Name="Documentation/IRDAR.txt" FileDate="2016-02-29, 13:52:15" FileAge="1456770135020" FileType="3072" />
+      <File Name="Generated_Code/TI1.h" FileDate="2016-02-29, 14:07:10" FileAge="1456771030817" FileType="45637" CompNumb="10" />
+      <File Name="Sources/Events.h" FileDate="2016-02-29, 13:52:14" FileAge="1456770134678" FileType="131328" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>70</CodeGenReference>
+</CodeGenerationInfo>
